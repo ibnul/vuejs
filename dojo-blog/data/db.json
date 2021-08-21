@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the new blog",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias doloribus nesciunt quod fuga eligendi esse nihil nam labore maxime repellendus, suscipit atque quas eius rem modi id omnis accusantium debitis!",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 css tips",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias doloribus nesciunt quod fuga eligendi esse nihil nam labore maxime repellendus, suscipit atque quas eius rem modi id omnis accusantium debitis!",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        },   
+        {
+            "id": 3,
+            "title": "top 5 vuejs tips",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias doloribus nesciunt quod fuga eligendi esse nihil nam labore maxime repellendus, suscipit atque quas eius rem modi id omnis accusantium debitis!",
+            "tags": [
+                "webdev",
+                "coding",
+                "vuejs"
+            ]
+        }    
+    ]
+}
